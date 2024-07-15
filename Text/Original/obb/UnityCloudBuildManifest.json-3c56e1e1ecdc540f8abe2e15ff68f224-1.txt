@@ -1,0 +1,1 @@
+{"cloudBuildTargetName":"default-android","buildNumber":"564","scmCommitId":"81b7b912b1e2f49e28b581ec5823cc9707d15f0b","buildStartTime":"8/10/2021 1:29:15 PM","projectId":"15668053444789/3836885b-94c9-41c8-9eaf-adc71ab6b5a0","bundleId":"jp.co.lifewonders.housamo","scmBranch":"release/4.15.1","unityVersion":"2018.4.13f1"}

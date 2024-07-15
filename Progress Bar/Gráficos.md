@@ -1,0 +1,4 @@
+| **Tipo** | **Tradução** |                                                       | **Revisão** |                                                     |
+| :------: | :----------: | :---------------------------------------------------: | :---------: | :-------------------------------------------------: |
+|   OBB    | 96/96 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/96 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|  Shared  | 20/236 (8%)  |  ![Progress](https://progress-bar.dev/8/?&width=150)  | 0/236 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |

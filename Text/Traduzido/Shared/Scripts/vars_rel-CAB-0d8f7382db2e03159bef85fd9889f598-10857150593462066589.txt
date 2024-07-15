@@ -1,0 +1,29 @@
+{
+	"Filter.Enabled.Elm.WD":"WDEnbld",
+	"Filter.Enabled.Wpn.NN":"NNEnbld",
+	"Mission.Characters":[
+		"fg_shirou01c",
+		"fg_kengo01c",
+		"fg_ryouta01",
+		"fg_touji01c",
+	],
+	"Mission.Background":"ui_bg_mission_background",
+	"Guild.SoundPlayer.Enabled":"EnbldBGM",
+	"Guild.Sticker.Enabled":"StckrEnbld",
+	"Option.MoviePlayer.Enabled":"EnbldMov",
+	"Guild.Sticker.Type":"TypeSticker",
+	"Guild.RandomVoice.Enabled":"EnbldRndVc",
+	"Card.Voice.List.Enabled":"EnbldVL",
+	"Card.Voice.List.Clean":"One",
+	"Card.Voice.expect.event":[
+        188001,
+        188002,
+        112803,
+        145703,
+        151103,
+        171303,
+        183003
+	],
+	"Card.Skin.List.Enabled":"EnbldSL",
+	"Card.PowerUp.Items20":"EnbldItm",
+}

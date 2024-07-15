@@ -1,0 +1,1214 @@
+{
+    "BgmData":[
+        {
+            "ID": "1010",
+            "SORT": "110",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_main",
+            "TITLE-JP": "黄昏の放課後",
+            "TITLE-US": "Crepúsculo Após à Escola",
+            "TITLE-CN": "放学后的黄昏",
+            "TITLE-TW": "黃昏時的放學後"
+        },
+        {
+            "ID": "1020",
+            "SORT": "120",
+            "BGM-INTRO": "bgm_home_intro",
+            "BGM-LOOP": "bgm_home",
+            "TITLE-JP": "Time Lapse",
+            "TITLE-US": "Time Lapse",
+            "TITLE-CN": "Time Lapse",
+            "TITLE-TW": "Time Lapse"
+        },
+        {
+            "ID": "1030",
+            "SORT": "130",
+            "BGM-INTRO": "bgm_mystery2_intro",
+            "BGM-LOOP": "bgm_mystery2",
+            "TITLE-JP": "時と空の果てる場所",
+            "TITLE-US": "Onde o Tempo e o Espaço Acabam",
+            "TITLE-CN": "时空尽头",
+            "TITLE-TW": "時空的盡頭"
+        },
+        {
+            "ID": "1040",
+            "SORT": "140",
+            "BGM-INTRO": "bgm_lonely2_intro",
+            "BGM-LOOP": "bgm_lonely2",
+            "TITLE-JP": "今は哀しみの風に",
+            "TITLE-US": "Nos Ventos da Tristeza",
+            "TITLE-CN": "悲凉风至",
+            "TITLE-TW": "哀戚之風"
+        },
+        {
+            "ID": "1050",
+            "SORT": "150",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_elegy",
+            "TITLE-JP": "Indigo Rain",
+            "TITLE-US": "Chuva Índigo",
+            "TITLE-CN": "Indigo Rain",
+            "TITLE-TW": "Indigo Rain"
+        },
+        {
+            "ID": "1060",
+            "SORT": "160",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_tense",
+            "TITLE-JP": "バーサス・スクール",
+            "TITLE-US": "Vs. Escola",
+            "TITLE-CN": "对抗・学园",
+            "TITLE-TW": "對戰・校園"
+        },
+        {
+            "ID": "1070",
+            "SORT": "310",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_hero2",
+            "TITLE-JP": "ユース・オブ・デスペラード",
+            "TITLE-US": "Jovens Desperados",
+            "TITLE-CN": "年轻的亡命之徒",
+            "TITLE-TW": "小鬼頭混混"
+        },
+        {
+            "ID": "1080",
+            "SORT": "320",
+            "BGM-INTRO": "bgm_battle_intro",
+            "BGM-LOOP": "bgm_battle",
+            "TITLE-JP": "Speed & Shot",
+            "TITLE-US": "Velocidade & Tiro",
+            "TITLE-CN": "Speed & Shot",
+            "TITLE-TW": "Speed & Shot"
+        },
+        {
+            "ID": "1090",
+            "SORT": "330",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_boss2",
+            "TITLE-JP": "立ちはだかる者",
+            "TITLE-US": "Aquele Que Fica no Meio do Caminho",
+            "TITLE-CN": "阻碍者",
+            "TITLE-TW": "阻擋者"
+        },
+        {
+            "ID": "1100",
+            "SORT": "510",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_gacha",
+            "TITLE-JP": "罪人は荒野を征く",
+            "TITLE-US": "Pecador Andando pela Wasteland",
+            "TITLE-CN": "征服荒原的罪人",
+            "TITLE-TW": "荒野中前行的罪人"
+        },
+        {
+            "ID": "1110",
+            "SORT": "520",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_idol2",
+            "TITLE-JP": "アーク・アイドル・ナンバーワン",
+            "TITLE-US": "Arco do Idol Número Um",
+            "TITLE-CN": "头号偶像NO.1",
+            "TITLE-TW": "頭號偶像NO.1"
+        },
+        {
+            "ID": "1120",
+            "SORT": "530",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_tap2",
+            "TITLE-JP": "TAP'n JOKER",
+            "TITLE-US": "TAP'n JOKER",
+            "TITLE-CN": "TAP'n JOKER",
+            "TITLE-TW": "TAP'n JOKER"
+        },
+        {
+            "ID": "1130",
+            "SORT": "540",
+            "BGM-INTRO": "bgm_salomon2_intro",
+            "BGM-LOOP": "bgm_salomon2_loop",
+            "TITLE-JP": "サロモンくんのテーマ",
+            "TITLE-US": "Temazinho do Salomonzinho",
+            "TITLE-CN": "沙罗门主题曲",
+            "TITLE-TW": "沙羅門主題曲"
+        },
+        {
+            "ID": "1140",
+            "SORT": "710",
+            "BGM-INTRO": "bgm_agreement2_intro",
+            "BGM-LOOP": "bgm_agreement2",
+            "TITLE-JP": "言の葉の翼",
+            "TITLE-US": "Palavras Te Dão Asas",
+            "TITLE-CN": "言语之翼",
+            "TITLE-TW": "話語之翅"
+        },
+        {
+            "ID": "1150",
+            "SORT": "720",
+            "BGM-INTRO": "bgm_love_intro",
+            "BGM-LOOP": "bgm_love",
+            "TITLE-JP": "思えばただ青き日々よ",
+            "TITLE-US": "Olhando Para Trás em uma Flor da Juventude",
+            "TITLE-CN": "那年青涩的我们",
+            "TITLE-TW": "回憶盡是青澀日常"
+        },
+        {
+            "ID": "1160",
+            "SORT": "730",
+            "BGM-INTRO": "bgm_xmas_intro2",
+            "BGM-LOOP": "bgm_xmas_loop",
+            "TITLE-JP": "見習いサンタの贈り物",
+            "TITLE-US": "Presente de um Papai Noel Aprendiz",
+            "TITLE-CN": "实习圣诞老人的礼物",
+            "TITLE-TW": "實習聖誕老人的贈禮"
+        },
+        {
+            "ID": "1170",
+            "SORT": "1010",
+            "BGM-INTRO": "bgm_holy_intro",
+            "BGM-LOOP": "bgm_holy",
+            "TITLE-JP": "教条の街にて",
+            "TITLE-US": "Cidade de Dogma",
+            "TITLE-CN": "教义之街",
+            "TITLE-TW": "教條之街"
+        },
+        {
+            "ID": "1180",
+            "SORT": "1020",
+            "BGM-INTRO": "bgm_battle_proud_intro",
+            "BGM-LOOP": "bgm_battle_proud",
+            "TITLE-JP": "伝道者の戦い",
+            "TITLE-US": "Batalha do Pregador",
+            "TITLE-CN": "传教士的战争",
+            "TITLE-TW": "傳道者的戰鬥"
+        },
+        {
+            "ID": "1190",
+            "SORT": "1030",
+            "BGM-INTRO": "bgm_battle_crisis_intro",
+            "BGM-LOOP": "bgm_battle_crisis",
+            "TITLE-JP": "炎の旅路へ",
+            "TITLE-US": "Em Direção ao Caminho de Chamas",
+            "TITLE-CN": "踏上火焰之旅",
+            "TITLE-TW": "火炎之旅"
+        },
+        {
+            "ID": "1200",
+            "SORT": "1110",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_casino",
+            "TITLE-JP": "カジノ・イン・トーキョー",
+            "TITLE-US": "Casino em Tóquio",
+            "TITLE-CN": "赌场 in 东京",
+            "TITLE-TW": "賭場 in 東京"
+        },
+        {
+            "ID": "1210",
+            "SORT": "1120",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_hakumen",
+            "TITLE-JP": "電脳いとをかし",
+            "TITLE-US": "A Maravilha dos Computadores",
+            "TITLE-CN": "有趣的电脑",
+            "TITLE-TW": "電腦風情種種"
+        },
+        {
+            "ID": "1220",
+            "SORT": "1130",
+            "BGM-INTRO": "bgm_casino_battle_intro",
+            "BGM-LOOP": "bgm_casino_battle",
+            "TITLE-JP": "Gambling Inferno",
+            "TITLE-US": "Inferno de Apostas",
+            "TITLE-CN": "Gambling Inferno",
+            "TITLE-TW": "Gambling Inferno"
+        },
+        {
+            "ID": "1230",
+            "SORT": "1140",
+            "BGM-INTRO": "bgm_battle_noble_intro",
+            "BGM-LOOP": "bgm_battle_noble",
+            "TITLE-JP": "Fragrance for uptown",
+            "TITLE-US": "Fragrância Para Uptown",
+            "TITLE-CN": "Fragrance for uptown",
+            "TITLE-TW": "Fragrance for uptown"
+        },
+        {
+            "ID": "1240",
+            "SORT": "1150",
+            "BGM-INTRO": "bgm_battle_noble_boss_intro",
+            "BGM-LOOP": "bgm_battle_noble_boss",
+            "TITLE-JP": "立ち塞がる壁",
+            "TITLE-US": "Paredes Ficam Altas",
+            "TITLE-CN": "阻挡之墙",
+            "TITLE-TW": "阻擋之壁"
+        },
+        {
+            "ID": "1250",
+            "SORT": "1210",
+            "BGM-INTRO": "bgm_benten_intro",
+            "BGM-LOOP": "bgm_benten",
+            "TITLE-JP": "東京ロマンチック",
+            "TITLE-US": "Tóquio Romântica",
+            "TITLE-CN": "东京Romantic",
+            "TITLE-TW": "東京Romantic"
+        },
+        {
+            "ID": "1260",
+            "SORT": "1220",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_seaboss",
+            "TITLE-JP": "Deep Sea",
+            "TITLE-US": "Mar Profundo",
+            "TITLE-CN": "Deep Sea",
+            "TITLE-TW": "Deep Sea"
+        },
+        {
+            "ID": "1270",
+            "SORT": "1230",
+            "BGM-INTRO": "bgm_beach_intro",
+            "BGM-LOOP": "bgm_beach",
+            "TITLE-JP": "ひと夏の冒険へ",
+            "TITLE-US": "Uma Jornada no Verão",
+            "TITLE-CN": "夏日冒险",
+            "TITLE-TW": "夏日冒險"
+        },
+        {
+            "ID": "1280",
+            "SORT": "1240",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_halloween",
+            "TITLE-JP": "ハロウィンなんてこわくない！",
+            "TITLE-US": "Não Tenho Medo de Fantasmas",
+            "TITLE-CN": "万圣节才不可怕呢！",
+            "TITLE-TW": "萬聖節才不可怕呢！"
+        },
+        {
+            "ID": "1290",
+            "SORT": "1250",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_battle_halloween",
+            "TITLE-JP": "Graveyard Adventurers",
+            "TITLE-US": "Aventureiros do Cemitério",
+            "TITLE-CN": "Graveyard Adventurers",
+            "TITLE-TW": "Graveyard Adventurers"
+        },
+        {
+            "ID": "1300",
+            "SORT": "1310",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_island",
+            "TITLE-JP": "秘島探険隊のテーマ",
+            "TITLE-US": "Tema dos Exploradores da Ilha",
+            "TITLE-CN": "秘岛探险队主题曲",
+            "TITLE-TW": "秘島探險隊的主題曲"
+        },
+        {
+            "ID": "1310",
+            "SORT": "1320",
+            "BGM-INTRO": "bgm_island_battle_intro",
+            "BGM-LOOP": "bgm_island_battle",
+            "TITLE-JP": "Battle in Jungle",
+            "TITLE-US": "Batalha na Selva",
+            "TITLE-CN": "Battle in Jungle",
+            "TITLE-TW": "Battle in Jungle"
+        },
+        {
+            "ID": "1320",
+            "SORT": "1330",
+            "BGM-INTRO": "bgm_xmas_battle2_intro",
+            "BGM-LOOP": "bgm_xmas_battle2",
+            "TITLE-JP": "聖夜のNEW HERO",
+            "TITLE-US": "O Novo HERO do Natal",
+            "TITLE-CN": "圣夜的NEW HERO",
+            "TITLE-TW": "聖夜的NEW HERO"
+        },
+        {
+            "ID": "1340",
+            "SORT": "1350",
+            "BGM-INTRO": "bgm_newyear_battle_intro",
+            "BGM-LOOP": "bgm_newyear_battle",
+            "TITLE-JP": "オリエント・ニューイヤー",
+            "TITLE-US": "Ano Novo Oriental",
+            "TITLE-CN": "狛犬的新年",
+            "TITLE-TW": "狛犬的新年"
+        },
+        {
+            "ID": "1350",
+            "SORT": "1410",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_cult",
+            "TITLE-JP": "ジェノサイダーズ",
+            "TITLE-US": "Os Genocidas",
+            "TITLE-CN": "屠戮者",
+            "TITLE-TW": "屠殺者"
+        },
+        {
+            "ID": "1360",
+            "SORT": "1420",
+            "BGM-INTRO": "bgm_battle_cult_intro",
+            "BGM-LOOP": "bgm_battle_cult",
+            "TITLE-JP": "奪還",
+            "TITLE-US": "Recuperar",
+            "TITLE-CN": "收复",
+            "TITLE-TW": "奪還"
+        },
+        {
+            "ID": "1370",
+            "SORT": "1430",
+            "BGM-INTRO": "bgm_battle_jeanne_intro",
+            "BGM-LOOP": "bgm_battle_jeanne",
+            "TITLE-JP": "血縁と、結縁と",
+            "TITLE-US": "Laços Sanguíneos e Conexões Espirituais",
+            "TITLE-CN": "血缘与结缘",
+            "TITLE-TW": "血緣與結緣"
+        },
+        {
+            "ID": "1430",
+            "SORT": "1440",
+            "BGM-INTRO": "bgm_battle_fear_intro",
+            "BGM-LOOP": "bgm_battle_fear",
+            "TITLE-JP": "終わりゆく都市を駆けて",
+            "TITLE-US": "Voo Pela Cidade Maldita",
+            "TITLE-CN": "奔驰在终结之城",
+            "TITLE-TW": "奔馳於迎來終結的城市"
+        },
+        {
+            "ID": "1480",
+            "SORT": "1450",
+            "BGM-INTRO": "bgm_escape_intro",
+            "BGM-LOOP": "bgm_escape",
+            "TITLE-JP": "流星　～逆転の決断～",
+            "TITLE-US": "Estrelas Cadentes -Decisão de um Contra-Ataque-",
+            "TITLE-CN": "流星　~逆转的决意~",
+            "TITLE-TW": "流星　～逆轉的決斷～"
+        },
+        {
+            "ID": "1380",
+            "SORT": "1510",
+            "BGM-INTRO": "bgm_valentine_intro",
+            "BGM-LOOP": "bgm_valentine",
+            "TITLE-JP": "バレンタイン・ジェイル！",
+            "TITLE-US": "Cadeia do Dia dos Namorados!",
+            "TITLE-CN": "Valentine's Jail!",
+            "TITLE-TW": "情人節監獄！"
+        },
+        {
+            "ID": "1390",
+            "SORT": "1520",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_mountain",
+            "TITLE-JP": "遙かなるジャンダルム",
+            "TITLE-US": "O Grande Gendarme",
+            "TITLE-CN": "O’ the Great Gendarme",
+            "TITLE-TW": "O’ the Great Gendarme"
+        },
+        {
+            "ID": "1400",
+            "SORT": "1530",
+            "BGM-INTRO": "bgm_battle_mountain_intro",
+            "BGM-LOOP": "bgm_battle_mountain",
+            "TITLE-JP": "山嶺より願いを込めて",
+            "TITLE-US": "Do Topo da Montanha com Amor",
+            "TITLE-CN": "From the Mountaintop with Love",
+            "TITLE-TW": "自山嶺許下心願"
+        },
+        {
+            "ID": "1410",
+            "SORT": "1540",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_struggle",
+            "TITLE-JP": "いざや楽しき祭りの日",
+            "TITLE-US": "Vambora, É Dia de Festival!",
+            "TITLE-CN": "Let's Go, It's a Festival Day!",
+            "TITLE-TW": "來吧，歡樂祭典之日"
+        },
+        {
+            "ID": "1420",
+            "SORT": "1550",
+            "BGM-INTRO": "bgm_battle_festival_intro",
+            "BGM-LOOP": "bgm_battle_festival",
+            "TITLE-JP": "仁義なき夏祭大抗争！",
+            "TITLE-US": "Batalha de Bóias",
+            "TITLE-CN": "Clash of Floats",
+            "TITLE-TW": "無仁義夏日祭典大抗爭！"
+        },
+        {
+            "ID": "1440",
+            "SORT": "1610",
+            "BGM-INTRO": "bgm_journey_intro",
+            "BGM-LOOP": "bgm_journey_loop",
+            "TITLE-JP": "Long Long Journey",
+            "TITLE-US": "Longa Longa Jornada",
+            "TITLE-CN": "Long Long Journey",
+            "TITLE-TW": "Long Long Journey"
+        },
+        {
+            "ID": "1450",
+            "SORT": "1620",
+            "BGM-INTRO": "bgm_battle_journey_intro",
+            "BGM-LOOP": "bgm_battle_journey",
+            "TITLE-JP": "デザート☆ジャーニー",
+            "TITLE-US": "Jornada no Deserto",
+            "TITLE-CN": "沙漠☆旅程",
+            "TITLE-TW": "沙漠☆旅程"
+        },
+        {
+            "ID": "1460",
+            "SORT": "1630",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_seabreeze",
+            "TITLE-JP": "Chill out Bossa",
+            "TITLE-US": "Calma Aí Bossa",
+            "TITLE-CN": "Chill out Bossa",
+            "TITLE-TW": "Chill out Bossa"
+        },
+        {
+            "ID": "1470",
+            "SORT": "1640",
+            "BGM-INTRO": "bgm_buzzledreamers_intro",
+            "BGM-LOOP": "bgm_buzzledreamers",
+            "TITLE-JP": "Improvisation Battle (Club Mix)",
+            "TITLE-US": "Batalha de Improvisação (Club Mix)",
+            "TITLE-CN": "Improvisation Battle (Club Mix)",
+            "TITLE-TW": "Improvisation Battle (Club Mix)"
+        },
+        {
+            "ID": "1490",
+            "SORT": "1710",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_celtic",
+            "TITLE-JP": "Days of Yggdrasil",
+            "TITLE-US": "Dias de Yggdrasil",
+            "TITLE-CN": "Days of Yggdrasil",
+            "TITLE-TW": "Days of Yggdrasil"
+        },
+        {
+            "ID": "1500",
+            "SORT": "1720",
+            "BGM-INTRO": "bgm_celtxmas_intro",
+            "BGM-LOOP": "bgm_celtxmas",
+            "TITLE-JP": "Celtic Night Rhapsody",
+            "TITLE-US": "Rapsódia da Noite Céltica",
+            "TITLE-CN": "Celtic Night Rhapsody",
+            "TITLE-TW": "Celtic Night Rhapsody"
+        },
+        {
+            "ID": "1510",
+            "SORT": "1730",
+            "BGM-INTRO": "bgm_battle_xmasrace_intro",
+            "BGM-LOOP": "bgm_battle_xmasrace",
+            "TITLE-JP": "Hoof Tracks",
+            "TITLE-US": "Pegadas de Pata",
+            "TITLE-CN": "Hoof Tracks",
+            "TITLE-TW": "Hoof Tracks"
+        },
+        {
+            "ID": "1520",
+            "SORT": "1740",
+            "BGM-INTRO": "bgm_boss_xmasrace_intro",
+            "BGM-LOOP": "bgm_boss_xmasrace",
+            "TITLE-JP": "December sprint",
+            "TITLE-US": "Dezembro Rápido",
+            "TITLE-CN": "December sprint",
+            "TITLE-TW": "December sprint"
+        },
+        {
+            "ID": "1530",
+            "SORT": "1810",
+            "BGM-INTRO": "bgm_newyear2019_intro",
+            "BGM-LOOP": "bgm_newyear2019",
+            "TITLE-JP": "Year of the Boar",
+            "TITLE-US": "Ano do Porco",
+            "TITLE-CN": "Year of the Boar",
+            "TITLE-TW": "Year of the Boar"
+        },
+        {
+            "ID": "1540",
+            "SORT": "1820",
+            "BGM-INTRO": "bgm_battle_newyear2019_intro",
+            "BGM-LOOP": "bgm_battle_newyear2019",
+            "TITLE-JP": "Dog & Cat お正月狂騒曲",
+            "TITLE-US": "Rapsódia de Ano Novo de Cães e Gatos",
+            "TITLE-CN": "Dog & Cat 新年狂响曲",
+            "TITLE-TW": "Dog & Cat 新年狂想曲"
+        },
+        {
+            "ID": "1550",
+            "SORT": "1830",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_nostalgia",
+            "TITLE-JP": "Long shadow pastoral",
+            "TITLE-US": "Pastoral da Sombra Longa",
+            "TITLE-CN": "Long shadow pastoral",
+            "TITLE-TW": "Long shadow pastoral"
+        },
+        {
+            "ID": "1560",
+            "SORT": "1840",
+            "BGM-INTRO": "bgm_battle_setsubun_intro",
+            "BGM-LOOP": "bgm_battle_setsubun",
+            "TITLE-JP": "風雪と巌　～鬼伝説～",
+            "TITLE-US": "Nevasca e Pedras -Lenda do Ogre-",
+            "TITLE-CN": "风雪与巨岩　~鬼的传说~",
+            "TITLE-TW": "風雪與大石　～鬼傳說～"
+        },
+        {
+            "ID": "1570",
+            "SORT": "1910",
+            "BGM-INTRO": "bgm_valentinefesta_intro",
+            "BGM-LOOP": "bgm_valentinefesta",
+            "TITLE-JP": "Sweets Buffet",
+            "TITLE-US": "Buffet de Doces",
+            "TITLE-CN": "Sweets Buffet",
+            "TITLE-TW": "Sweets Buffet"
+        },
+        {
+            "ID": "1580",
+            "SORT": "1920",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_battle_lovepop",
+            "TITLE-JP": "Take a plunge",
+            "TITLE-US": "Da um Mergulho",
+            "TITLE-CN": "Take a plunge",
+            "TITLE-TW": "Take a plunge"
+        },
+        {
+            "ID": "1590",
+            "SORT": "2010",
+            "BGM-INTRO": "bgm_street_intro",
+            "BGM-LOOP": "bgm_street",
+            "TITLE-JP": "Break’n’Knock",
+            "TITLE-US": "Quebra&Bate",
+            "TITLE-CN": "Break’n’Knock",
+            "TITLE-TW": "Break’n’Knock"
+        },
+        {
+            "ID": "1600",
+            "SORT": "2020",
+            "BGM-INTRO": "bgm_hiphop_intro",
+            "BGM-LOOP": "bgm_hiphop",
+            "TITLE-JP": "Silver Funk",
+            "TITLE-US": "Funk Prata",
+            "TITLE-CN": "Silver Funk",
+            "TITLE-TW": "Silver Funk"
+        },
+        {
+            "ID": "1610",
+            "SORT": "2030",
+            "BGM-INTRO": "bgm_battle_hiphop_intro",
+            "BGM-LOOP": "bgm_battle_hiphop",
+            "TITLE-JP": "Freakie-Boogie Junction",
+            "TITLE-US": "Junção Esquisita-Dançante",
+            "TITLE-CN": "Freakie-Boogie Junction",
+            "TITLE-TW": "Freakie-Boogie Junction"
+        },
+        {
+            "ID": "1620",
+            "SORT": "2040",
+            "BGM-INTRO": "bgm_library_intro",
+            "BGM-LOOP": "bgm_library",
+            "TITLE-JP": "深淵への旅立ち",
+            "TITLE-US": "Para o Abismo",
+            "TITLE-CN": "前往深渊之旅",
+            "TITLE-TW": "前往深淵之旅"
+        },
+        {
+            "ID": "1630",
+            "SORT": "2050",
+            "BGM-INTRO": "bgm_battle_library_intro",
+            "BGM-LOOP": "bgm_battle_library",
+            "TITLE-JP": "Beautiful Chaos",
+            "TITLE-US": "Lindo Caos",
+            "TITLE-CN": "Beautiful Chaos",
+            "TITLE-TW": "Beautiful Chaos"
+        },
+        {
+            "ID": "1640",
+            "SORT": "2060",
+            "BGM-INTRO": "bgm_tsukuyomi_intro",
+            "BGM-LOOP": "bgm_tsukuyomi",
+            "TITLE-JP": "Xenia Cruise",
+            "TITLE-US": "Cruzeiro de Xenia",
+            "TITLE-CN": "Xenia Cruise",
+            "TITLE-TW": "Xenia Cruise"
+        },
+        {
+            "ID": "1650",
+            "SORT": "2070",
+            "BGM-INTRO": "bgm_crafters_intro",
+            "BGM-LOOP": "bgm_crafters",
+            "TITLE-JP": "the Crafters",
+            "TITLE-US": "Os Artesãos",
+            "TITLE-CN": "the Crafters",
+            "TITLE-TW": "the Crafters"
+        },
+        {
+            "ID": "1660",
+            "SORT": "2080",
+            "BGM-INTRO": "bgm_warmongers_intro",
+            "BGM-LOOP": "bgm_warmongers",
+            "TITLE-JP": "撃鉄と硝煙のバラード",
+            "TITLE-US": "Balada de Fumaça e Tiros",
+            "TITLE-CN": "击铁与硝烟的情歌",
+            "TITLE-TW": "槍械與硝煙之詩"
+        },
+        {
+            "ID": "1670",
+            "SORT": "2090",
+            "BGM-INTRO": "bgm_detective_intro",
+            "BGM-LOOP": "bgm_detective",
+            "TITLE-JP": "解析せし者",
+            "TITLE-US": "O Analista",
+            "TITLE-CN": "分析者",
+            "TITLE-TW": "解析者"
+        },
+        {
+            "ID": "1680",
+            "SORT": "2100",
+            "BGM-INTRO": "bgm_strategy_intro",
+            "BGM-LOOP": "bgm_strategy",
+            "TITLE-JP": "a Piece of Operation",
+            "TITLE-US": "Uma Peça de Operação",
+            "TITLE-CN": "a Piece of Operation",
+            "TITLE-TW": "a Piece of Operation"
+        },
+        {
+            "ID": "1700",
+            "SORT": "2120",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_summer",
+            "TITLE-JP": "東京サモナーズコレクション",
+            "TITLE-US": "Coleção de Tokyo Summoners",
+            "TITLE-CN": "东京召唤师Collection",
+            "TITLE-TW": "東京召喚師Collection"
+        },
+        {
+            "ID": "1710",
+            "SORT": "2130",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_battle_fashion",
+            "TITLE-JP": "Mode : Pret-a-porter Side",
+            "TITLE-US": "Modo: Lado Prêt-à-Porter",
+            "TITLE-CN": "Mode : Pret-a-porter Side",
+            "TITLE-TW": "Mode : Pret-a-porter Side"
+        },
+        {
+            "ID": "1720",
+            "SORT": "2140",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_battle_runway",
+            "TITLE-JP": "Mode : Haute Couture Side",
+            "TITLE-US": "Modo: Lado Haute Couture",
+            "TITLE-CN": "Mode : Haute Couture Side",
+            "TITLE-TW": "Mode : Haute Couture Side"
+        },
+        {
+            "ID": "1730",
+            "SORT": "2150",
+            "BGM-INTRO": "bgm_days_intro",
+            "BGM-LOOP": "bgm_days",
+            "TITLE-JP": "a New Day Begins",
+            "TITLE-US": "Um Novo Dia Começa",
+            "TITLE-CN": "a New Day Begins",
+            "TITLE-TW": "a New Day Begins"
+        },
+        {
+            "ID": "1740",
+            "SORT": "2160",
+            "BGM-INTRO": "bgm_battle_goemon_intro",
+            "BGM-LOOP": "bgm_battle_goemon",
+            "TITLE-JP": "大江戸を翔ける波濤",
+            "TITLE-US": "Ondas Fortes Através do Oedo",
+            "TITLE-CN": "遨遊大江戶的波濤",
+            "TITLE-TW": "翱翔于大江户的波涛"
+        },
+        {
+            "ID": "1750",
+            "SORT": "2170",
+            "BGM-INTRO": "bgm_kungfu_intro",
+            "BGM-LOOP": "bgm_kungfu",
+            "TITLE-JP": "Kung-fu “TAO”",
+            "TITLE-US": ""Tao" do Kung-Fu",
+            "TITLE-CN": "功夫 “TAO”",
+            "TITLE-TW": "功夫 “TAO”"
+        },
+        {
+            "ID": "1760",
+            "SORT": "2180",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_battle_china",
+            "TITLE-JP": "Yin ～秀麗皎潔～",
+            "TITLE-US": "Yin -Beleza Transcendente-",
+            "TITLE-CN": "Yin ～秀麗皎潔～",
+            "TITLE-TW": "Yin ～秀丽皎洁～"
+        },
+        {
+            "ID": "1770",
+            "SORT": "2190",
+            "BGM-INTRO": "bgm_battle_metal_intro",
+            "BGM-LOOP": "bgm_battle_metal",
+            "TITLE-JP": "Yang ～血気方剛～",
+            "TITLE-US": "Yang -No Auge da Vida-",
+            "TITLE-CN": "Yang ～血氣方剛～",
+            "TITLE-TW": "Yang ～血气方刚～"
+        },
+        {
+            "ID": "1780",
+            "SORT": "2200",
+            "BGM-INTRO": "bgm_relax_intro",
+            "BGM-LOOP": "bgm_relax",
+            "TITLE-JP": "Answer",
+            "TITLE-US": "Resposta",
+            "TITLE-CN": "回答 “Answer”",
+            "TITLE-TW": "回答 “Answer”"
+        },
+        {
+            "ID": "1790",
+            "SORT": "2210",
+            "BGM-INTRO": "bgm_battle_samba_intro",
+            "BGM-LOOP": "bgm_battle_samba",
+            "TITLE-JP": "Set Sails",
+            "TITLE-US": "Zarpar Velas",
+            "TITLE-CN": "啟航 “Set Sails\"",
+            "TITLE-TW": "启航 \"Set Sails\""
+        },
+        {
+            "ID": "1800",
+            "SORT": "2220",
+            "BGM-INTRO": "bgm_battle_canaan_intro",
+            "BGM-LOOP": "bgm_battle_canaan",
+            "TITLE-JP": "黙示録",
+            "TITLE-US": "Apocalipse",
+            "TITLE-CN": "默示錄",
+            "TITLE-TW": "默示录"
+        },
+        {
+            "ID": "1810",
+            "SORT": "2230",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_pastral",
+            "TITLE-JP": "Prelude",
+            "TITLE-US": "Prelúdio",
+            "TITLE-CN": "序曲",
+            "TITLE-TW": "序曲"
+        },
+        {
+            "ID": "1820",
+            "SORT": "2240",
+            "BGM-INTRO": "bgm_melancholic_intro",
+            "BGM-LOOP": "bgm_melancholic",
+            "TITLE-JP": "Legacy in Monochrome",
+            "TITLE-US": "Legado em Monocromo",
+            "TITLE-CN": "黑白色的遺物",
+            "TITLE-TW": "黑白色的遗物"
+        },
+        {
+            "ID": "1830",
+            "SORT": "2250",
+            "BGM-INTRO": "bgm_battle_mist_intro",
+            "BGM-LOOP": "bgm_battle_mist",
+            "TITLE-JP": "hypocaustum",
+            "TITLE-US": "Hipocausto",
+            "TITLE-CN": "羅馬式熱坑 \"hypocaustum\"",
+            "TITLE-TW": "罗马式热坑 \"hypocaustum\""
+        },
+        {
+            "ID": "1840",
+            "SORT": "2260",
+            "BGM-INTRO": "bgm_combatmarch_intro",
+            "BGM-LOOP": "bgm_combatmarch",
+            "TITLE-JP": "Brave march",
+            "TITLE-US": "Marcha Valente",
+            "TITLE-CN": "Brave march",
+            "TITLE-TW": "Brave march"
+        },
+        {
+            "ID": "1850",
+            "SORT": "2270",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_asylum",
+            "TITLE-JP": "燠紫鉄線",
+            "TITLE-US": "Fumaça Por Trás do Arame do Diabo",
+            "TITLE-CN": "燠紫铁线",
+            "TITLE-TW": "燠紫鐵線"
+        },
+        {
+            "ID": "1860",
+            "SORT": "2280",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_auction",
+            "TITLE-JP": "ネオンと札束",
+            "TITLE-US": "Néon e Dinheiro",
+            "TITLE-CN": "霓虹灯与大把银子",
+            "TITLE-TW": "霓虹燈與大把的鈔票"
+        },
+        {
+            "ID": "1870",
+            "SORT": "2290",
+            "BGM-INTRO": "bgm_battle_bukuro_intro",
+            "BGM-LOOP": "bgm_battle_bukuro",
+            "TITLE-JP": "闘いの記憶 〜Danza delle spade〜",
+            "TITLE-US": "Memórias da Batalha -Danza Delle Spade-",
+            "TITLE-CN": "交战记忆 〜Danza delle spade〜",
+            "TITLE-TW": "交戰記憶 〜Danza delle spade〜"
+        },
+        {
+            "ID": "1880",
+            "SORT": "2300",
+            "BGM-INTRO": "bgm_cooking_intro",
+            "BGM-LOOP": "bgm_cooking",
+            "TITLE-JP": "スペシャルデコレ〜ション！",
+            "TITLE-US": "Decoração Especial!",
+            "TITLE-CN": "特别装饰！",
+            "TITLE-TW": "特別裝飾！"
+        },
+        {
+            "ID": "1890",
+            "SORT": "2310",
+            "BGM-INTRO": "bgm_battle_valentinetime_intro",
+            "BGM-LOOP": "bgm_battle_valentinetime",
+            "TITLE-JP": "PARADOXICAL♡LOVE",
+            "TITLE-US": "AMOR♡PARADOXICO",
+            "TITLE-CN": "PARADOXICAL♡LOVE",
+            "TITLE-TW": "PARADOXICAL♡LOVE"
+        },
+        {
+            "ID": "1900",
+            "SORT": "2320",
+            "BGM-INTRO": "bgm_hatsukoi_intro",
+            "BGM-LOOP": "bgm_hatsukoi",
+            "TITLE-JP": "ハツコイ・メルトアウト",
+            "TITLE-US": "Primeiro Amor -Confusão-",
+            "TITLE-CN": "初恋融化",
+            "TITLE-TW": "初戀融化"
+        },
+        {
+            "ID": "1910",
+            "SORT": "2330",
+            "BGM-INTRO": "bgm_fkare_overture_intro",
+            "BGM-LOOP": "bgm_fkare_overture",
+            "TITLE-JP": "序曲",
+            "TITLE-US": "Abertura",
+            "TITLE-CN": "序曲",
+            "TITLE-TW": "序章"
+        },
+        {
+            "ID": "1920",
+            "SORT": "2340",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_fkare_journey",
+            "TITLE-JP": "冒険の旅",
+            "TITLE-US": "Jornada no Mundo",
+            "TITLE-CN": "冒险旅途",
+            "TITLE-TW": "冒險旅程"
+        },
+        {
+            "ID": "1930",
+            "SORT": "2350",
+            "BGM-INTRO": "bgm_fkare_walk_intro",
+            "BGM-LOOP": "bgm_fkare_walk",
+            "TITLE-JP": "街の人々",
+            "TITLE-US": "Passeio em uma Cidade",
+            "TITLE-CN": "街上的人们",
+            "TITLE-TW": "街道的人們"
+        },
+        {
+            "ID": "1940",
+            "SORT": "2360",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_fkare_adventure",
+            "TITLE-JP": "冒険者の酒場",
+            "TITLE-US": "Taverna dos Aventureiros",
+            "TITLE-CN": "冒险者的酒吧",
+            "TITLE-TW": "冒險者的酒吧"
+        },
+        {
+            "ID": "1950",
+            "SORT": "2370",
+            "BGM-INTRO": "bgm_fkare_battle_intro",
+            "BGM-LOOP": "bgm_fkare_battle",
+            "TITLE-JP": "勇者と仲間たち",
+            "TITLE-US": "Batalha com Namorados",
+            "TITLE-CN": "勇者与搭档们",
+            "TITLE-TW": "勇者與夥伴們"
+        },
+        {
+            "ID": "1960",
+            "SORT": "2380",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_fkare_fearful",
+            "TITLE-JP": "迷宮を行く",
+            "TITLE-US": "Dungeon Assustadora",
+            "TITLE-CN": "前往迷宫",
+            "TITLE-TW": "前往迷宮"
+        },
+        {
+            "ID": "1970",
+            "SORT": "2390",
+            "BGM-INTRO": "bgm_fkare_formidable_intro",
+            "BGM-LOOP": "bgm_fkare_formidable",
+            "TITLE-JP": "強敵を超えて",
+            "TITLE-US": "Monstro Formidável",
+            "TITLE-CN": "超越强敌",
+            "TITLE-TW": "超越強敵"
+        },
+        {
+            "ID": "1980",
+            "SORT": "2400",
+            "BGM-INTRO": "bgm_fkare_king_intro",
+            "BGM-LOOP": "bgm_fkare_king",
+            "TITLE-JP": "魔王との戦い",
+            "TITLE-US": "Rei das Trevas",
+            "TITLE-CN": "与魔王的对战",
+            "TITLE-TW": "與魔王的戰鬥"
+        },
+        {
+            "ID": "1990",
+            "SORT": "2410",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_fkare_ending",
+            "TITLE-JP": "エンディング",
+            "TITLE-US": "O Fim",
+            "TITLE-CN": "尾声",
+            "TITLE-TW": "終章"
+        },
+        {
+            "ID": "2000",
+            "SORT": "2420",
+            "BGM-INTRO": "bgm_kuma_intro",
+            "BGM-LOOP": "bgm_kuma",
+            "TITLE-JP": "カムイの風",
+            "TITLE-US": "vento de Kamui",
+            "TITLE-CN": "神威之风",
+            "TITLE-TW": "神威之風"
+        },
+        {
+            "ID": "2010",
+            "SORT": "2430",
+            "BGM-INTRO": "bgm_battle_wenkamui_intro",
+            "BGM-LOOP": "bgm_battle_wenkamui",
+            "TITLE-JP": "IPETAM",
+            "TITLE-US": "IPETAM",
+            "TITLE-CN": "Ipetam",
+            "TITLE-TW": "Ipetam"
+        },
+        {
+            "ID": "2020",
+            "SORT": "2440",
+            "BGM-INTRO": "bgm_kamuikotan_intro",
+            "BGM-LOOP": "bgm_kamuikotan",
+            "TITLE-JP": "rupus mosir",
+            "TITLE-US": "Rupus Mosir - Mundo Congelado",
+            "TITLE-CN": "Rupus Mosir - 冰封大地",
+            "TITLE-TW": "Rupus Mosir - 冰封大地"
+        },
+        {
+            "ID": "2030",
+            "SORT": "2450",
+            "BGM-INTRO": "bgm_vsummer_intro",
+            "BGM-LOOP": "bgm_vsummer",
+            "TITLE-JP": "///SEASIDE BREEZE///",
+            "TITLE-US": "///BRISA DO MAR///",
+            "TITLE-CN": "Seaside Breeze",
+            "TITLE-TW": "Seaside Breeze"
+        },
+        {
+            "ID": "2040",
+            "SORT": "2460",
+            "BGM-INTRO": "bgm_battle_vsummer_intro",
+            "BGM-LOOP": "bgm_battle_vsummer",
+            "TITLE-JP": "///OTOHIME OVERDRIVE///",
+            "TITLE-US": "///ULTRAPASSAGEM OTOHIME///",
+            "TITLE-CN": "Otohime Overdrive",
+            "TITLE-TW": "Otohime Overdrive"
+        },
+        {
+            "ID": "2050",
+            "SORT": "2470",
+            "BGM-INTRO": "bgm_inaka_intro",
+            "BGM-LOOP": "bgm_inaka",
+            "TITLE-JP": "のどかな郷",
+            "TITLE-US": "Vila Idílica",
+            "TITLE-CN": "安逸的乡村",
+            "TITLE-TW": "安逸的鄉村"
+        },
+        {
+            "ID": "2060",
+            "SORT": "2480",
+            "BGM-INTRO": "bgm_battle_ondo_intro",
+            "BGM-LOOP": "bgm_battle_ondo",
+            "TITLE-JP": "サロモンくんとボンダンス！",
+            "TITLE-US": "Boa Dança com o Salomonzinho!",
+            "TITLE-CN": "与沙羅門的盂兰盆节舞蹈",
+            "TITLE-TW": "與沙羅門的盂蘭盆節舞蹈！"
+        },
+        {
+            "ID": "2070",
+            "SORT": "2490",
+            "BGM-INTRO": "bgm_battle_ondo_inst_intro",
+            "BGM-LOOP": "bgm_battle_ondo_inst",
+            "TITLE-JP": "サロモンくんとボンダンス！(instrumental)",
+            "TITLE-US": "Boa Dança com o Salomonzinho! (Instrumental)",
+            "TITLE-CN": "与沙羅門的盂兰盆节舞蹈(instrumental)",
+            "TITLE-TW": "與沙羅門的盂蘭盆節舞蹈！(instrumental)"
+        },
+        {
+            "ID": "2080",
+            "SORT": "2500",
+            "BGM-INTRO": "bgm_magic_intro",
+            "BGM-LOOP": "bgm_magic",
+            "TITLE-JP": "怪しいマジシャン参上！",
+            "TITLE-US": "O Debut do Mágico Misterioso!",
+            "TITLE-CN": "神奇的魔术师参上！",
+            "TITLE-TW": "不可思議的魔術師參上！"
+        },
+        {
+            "ID": "2090",
+            "SORT": "2510",
+            "BGM-INTRO": "bgm_awakeing_intro",
+            "BGM-LOOP": "bgm_awakeing",
+            "TITLE-JP": "Crying moon",
+            "TITLE-US": "Lua Chorando",
+            "TITLE-CN": "哭泣的月亮",
+            "TITLE-TW": "哭泣的月亮"
+        },
+        {
+            "ID": "2100",
+            "SORT": "2520",
+            "BGM-INTRO": "bgm_battle_arabicmetal_intro",
+            "BGM-LOOP": "bgm_battle_arabicmetal",
+            "TITLE-JP": "Awakening",
+            "TITLE-US": "Acordando",
+            "TITLE-CN": "唤醒",
+            "TITLE-TW": "喚醒"
+        },
+        {
+            "ID": "2110",
+            "SORT": "2530",
+            "BGM-INTRO": "bgm_rockabilly_intro",
+            "BGM-LOOP": "bgm_rockabilly",
+            "TITLE-JP": "Noel-A-Billy",
+            "TITLE-US": "Noel-a-Billy",
+            "TITLE-CN": "Noel-a-Billy",
+            "TITLE-TW": "Noel-a-Billy"
+        },
+        {
+            "ID": "2120",
+            "SORT": "2540",
+            "BGM-INTRO": "bgm_battle_xmasrock_intro",
+            "BGM-LOOP": "bgm_battle_xmasrock",
+            "TITLE-JP": "Holy night havoc!!",
+            "TITLE-US": "Loucura na Noite Sagrada!",
+            "TITLE-CN": "圣夜浩劫",
+            "TITLE-TW": "聖夜浩劫"
+        },
+        {
+            "ID": "2130",
+            "SORT": "2550",
+            "BGM-INTRO": "bgm_battle_newyear2021_intro",
+            "BGM-LOOP": "bgm_battle_newyear2021",
+            "TITLE-JP": "ハッピー・モーモー・ニューイヤー！",
+            "TITLE-US": "Feliz Ano Moo-vo!",
+            "TITLE-CN": "Happy 牛 Year！",
+            "TITLE-TW": "Happy 牛 Year！"
+        },
+        {
+            "ID": "2140",
+            "SORT": "2560",
+            "BGM-INTRO": "bgm_bluesky_intro",
+            "BGM-LOOP": "bgm_bluesky",
+            "TITLE-JP": "騎士は七つの風を識る",
+            "TITLE-US": "Aprendizagem dos Sete Ventos",
+            "TITLE-CN": "骑士知晓七风",
+            "TITLE-TW": "騎士必知曉七風"
+        },
+        {
+            "ID": "2150",
+            "SORT": "2570",
+            "BGM-INTRO": "bgm_battle_colosseum_intro",
+            "BGM-LOOP": "bgm_battle_colosseum",
+            "TITLE-JP": "白銀に暁を秘めて",
+            "TITLE-US": "Ocultando o Amanhecer em Prata",
+            "TITLE-CN": "拂晓藏匿于白银",
+            "TITLE-TW": "將黎明藏於白銀"
+        },
+        {
+            "ID": "2160",
+            "SORT": "2580",
+            "BGM-INTRO": "bgm_battle_holy_intro",
+            "BGM-LOOP": "bgm_battle_holy",
+            "TITLE-JP": "HOLY†GRAIL",
+            "TITLE-US": "CÁLICE†SAGRADO",
+            "TITLE-CN": "HOLY†GRAIL",
+            "TITLE-TW": "HOLY†GRAIL"
+        },
+        {
+            "ID": "2170",
+            "SORT": "2590",
+            "BGM-INTRO": "bgm_nightglows_intro",
+            "BGM-LOOP": "bgm_nightglows",
+            "TITLE-JP": "プロメテウスの灯を求めて",
+            "TITLE-US": "Em Busca da Luz de Prometeu",
+            "TITLE-CN": "寻求普罗米修斯之光",
+            "TITLE-TW": "追尋普羅米修斯之光"
+        },
+        {
+            "ID": "2180",
+            "SORT": "2600",
+            "BGM-INTRO": "bgm_battle_nightglows_intro",
+            "BGM-LOOP": "bgm_battle_nightglows",
+            "TITLE-JP": "光芒のナイトグロウズ",
+            "TITLE-US": "Irradiante Luminescência",
+            "TITLE-CN": "闪耀的夜气辉",
+            "TITLE-TW": "閃耀的夜輝"
+        },
+        {
+            "ID": "2190",
+            "SORT": "2610",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_battle_nightglows_short",
+            "TITLE-JP": "光芒のナイトグロウズ - trailer ver. -",
+            "TITLE-US": "Irradiante Luminescência (Trailer Ver.)",
+            "TITLE-CN": "闪耀的夜气辉 - trailer ver. -",
+            "TITLE-TW": "閃耀的夜輝 - trailer ver. -"
+        },
+        {
+            "ID": "2200",
+            "SORT": "2620",
+            "BGM-INTRO": "",
+            "BGM-LOOP": "bgm_romance",
+            "TITLE-JP": "貴方と見上げる空だから",
+            "TITLE-US": "O Céu Acima de Nós",
+            "TITLE-CN": "与你所遥望的天空",
+            "TITLE-TW": "與你所見的天空"
+        },
+        {
+            "ID": "2210",
+            "SORT": "2630",
+            "BGM-INTRO": "bgm_cyber_intro",
+            "BGM-LOOP": "bgm_cyber",
+            "TITLE-JP": "Electro-ABYSS",
+            "TITLE-US": "Electro-ABISMO",
+            "TITLE-CN": "Electro-ABYSS",
+            "TITLE-TW": "Electro-ABYSS"
+        },
+        {
+            "ID": "2220",
+            "SORT": "2640",
+            "BGM-INTRO": "bgm_battle_cyber_intro",
+            "BGM-LOOP": "bgm_battle_cyber",
+            "TITLE-JP": ">clever solutions",
+            "TITLE-US": ">Soluções Inteligentes",
+            "TITLE-CN": "Clever Solutions",
+            "TITLE-TW": "Clever Solutions"
+        },
+        {
+            "ID": "2230",
+            "SORT": "2650",
+            "BGM-INTRO": "bgm_homearr_intro",
+            "BGM-LOOP": "bgm_homearr",
+            "TITLE-JP": "Time Lapse(Relay)",
+            "TITLE-US": "Time Lapse (Relay)",
+            "TITLE-CN": "Time Lapse(Relay)",
+            "TITLE-TW": "Time Lapse(Relay)"
+        }
+    ]
+}

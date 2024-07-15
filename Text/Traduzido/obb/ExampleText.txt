@@ -1,0 +1,26 @@
+Key	Japanese	English
+StartGame	はじめから	Iniciar Jogo
+Load	ロード	Carregar
+Config	コンフィグ	Configurações
+Back	戻る	Voltar
+Title	タイトル	Título
+ResetDefault	ﾃﾞﾌｫﾙﾄ\nに戻す	Restaurar\ao padrão
+MessageSpeed	メッセージ速度	Velocidade da mensagem
+AutoMessageSpeed	自動メッセージ速度	Velocidade da mensagem automática
+WindowTransparent	ウインドウの透明度	Transparência da janela
+SkipUnread	未読でもスキップする	Pular não lido
+SkipReleasedBySelection	選択肢でスキップ解除	Pular lançado por seleção
+SendMesssageByMouseWheel	マウスホイールで\n文字送り	Enviar mensagem pela\nroda do mouse
+FullScreen	フルスクリーン表示	Tela Cheia
+SoundVolume	音量	Volume do Som
+All	全体	Todos
+Bgm	BGM	BGM
+Se	SE	Efeitos Sonoros
+Ambience	環境音	Ambiente
+Voice	ボイス	Voz
+ContinueUntilNext	次の音声まで再生を続ける	Continuar até a próxima
+StopOnClick	クリックで停止	StopOnClick
+CgGallery	CG回想	Galeria de Cg
+SceneGallery	シーン回想	Galeria de Cenas
+SoundRoom	サウンドルーム	Sala de Som
+Gallery	ギャラリー	Galeria

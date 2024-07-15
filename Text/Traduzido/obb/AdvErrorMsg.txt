@@ -1,0 +1,23 @@
+Key	Japanese	English
+Import	インポート {0}	Importar {0}
+NotLinkedScenarioLabel	{0}: はリンク先が存在しないシナリオラベルです\n{1}	{0} não é uma label do Scenario vinculado.{1}
+RedefinitionScenarioLabel	{0}: 二重に定義されたシナリオラベルです\n{1}	{0} é uma label do Scenario de redefinição.{1}
+NotFoundScnarioLabel	{0}: はジャンプ先が存在しないシナリオラベルです	{0} não é encontrado em todos as labels do Scenario.
+NotSettingSheet	{0}: はSetting用のシートではありません	{0} não está configurando na sheet.
+UnknownTag	{0}: 不明なタグです	{0} é uma tag desconhecida.
+SoudType	サウンド{0}のタイプは{1}ですが、{2}として使用しようしました		Sound[{0}] é type {1}. Mas é para o type usado {2}.
+BgLayerIsNotDefined	Bg用のLayerが設定されていません。	Layer de Bg não está definida
+ReadLayerSaveData	セーブデータの読み込みに失敗しました。レイヤー[{0}]が設定されていません	Falha ao ler a Layer de dados salvos.
+ElseIf	{0}: ifがないままElseIfが始まっています	Erro lógico if-else-endif.
+Else	ifがないままElseが始まっています	Erro lógico if-else-endif.
+Endif	ifがないままEndifが始まっています	Erro lógico if-else-endif.
+CommandParseNull	不正な記述です	Erro de comando parser.
+NotScenarioLabel	{0}:はシナリオラベルではありません	{0} não é uma label do Scenario.
+NotFoundTweenGameObject	{0}: という名前のGameObjectcが見つからなかったためTween処理が出来ませんでした。	Gameobject {0} não foi encontrado. Por animation tween.
+UpdateSceneLabel	シーン{0}が終わっていなのに、新しいシーン{1}に移っているいます。別のシナリオに移る前にEndSceneGalleryを使ってください。	EndSceneGallery não está definido.
+EndSceneGallery	シーン回想に登録されていないのに、シーン回想終了がされています。	Este Scenario não está definido na SceneGallery. Mas EndSceneGallery é chamado.
+ChacacterCountOnImport	文字数={0}	Contagem de caracteres = {0}.
+
+
+
+

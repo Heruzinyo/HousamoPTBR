@@ -1,0 +1,33 @@
+Key	Japanese	English
+NotFound	{0}:が見つかりません	{0} não foi encontrado
+UnknownType	 {0}: は不明なタイプです	{0} é de tipo desconhecido 
+UnknownVersion	{0}は不明なバージョンです	{0} é uma versão desconhecida
+ColorParse	カラー:{0} は書式が間違っています	Color:{0} é um erro
+SpriteMimMap	{0} ミップマップのあるテクスチャをスプライトに設定しようとしています	Não é possível fazer sprite da textura mipmap.
+UnknownFontData	フォントに未設定の文字です。 [ {0} ]		Dados de fonte desconhecidos. [ {0} ]
+StringGridRowPraseColumnName	列:{0} は存在しないかデータが空です。		Column {0} é null ou vazio.
+StringGridRowPraseColumnIndex	{0} 列目は存在しないかデータが空です。		Column index de {0} é null ou vazio.
+StringGridRowPrase	{0}  列目のデータ: {1} を値に変換できません。正しい書式で入力してください	Column {0}: {1}. Erro de parser.
+StringGridParseHaeder	{0}:ヘッダーに指定した行が存在しません\n{1}	 {0}: Erro de header do parser.\n{1}
+StringGridGetColumnIndex	{0}:指定の名前の列は見つかりません\n\{1}	 Column {0} não foi encontrado
+SoundNotReadyToPlay	{0}:はまだ再生準備が終わってません	{0}: Sound não está pronto para tocar.
+TweenWrite	セーブすべきでないTween情報をセーブしようとしました		Erro de salvar tween
+FileWrite	{0} ファイル書き込みエラー {1}		{0} Erro de gravação de arquivo.{1}
+FileRead	{0} ファイル読み込みエラー {1}		{0} Erro de leitura de arquivo.{1}
+MemoryLeak	メモリリーク	Ocorreu um memory leak.
+FileReferecedIsNull	ファイルを参照しているオブジェクトがNULLです	O object referenciado do arquivo é null.
+FileIsNotReady	ファイルの使用準備が終わっていません。「ReadyToUse」を使ってください	O arquivo não está pronto. Chamar "ReadyToUse".
+DisableChangeFileLoadFlag	ロード済みのファイルのロードフラグは変えられません	Desativar mudar FileLoadFlag
+DisableChangeFileVersion	ロード済みのファイルのバージョンは変えられません	Desativar mudar FileVersion
+SingletonError	シングルトンなオブジェクトを二個以上作ろうとしました	Não é possível criar dois ou mais singleton Object. (O FDP QUE TÁ TRADUZINDO ESSA PORRA PRA INGLÊS TA DIGITANDO COM O CU DELE PORQUE NÃO É POSSÍVEL ISSO VELHO)
+NoChacheTypeFile	キャッシュ書き込みしないファイルです	Não é arquivo do tipo cache.
+ExpUnknownParameter	{0} :不明なパラメーターです。	{0} é um parameter desconhecido.
+ExpResultNotBool	式の結果がbool型ではありません	Exceção não é boolean. 
+ExpIllegal	不正な式の記述です	Erro de exceção de parse.{0}
+PivotParse	ピボット:{0} は書式が間違っています	Erro de pivot parser.{0}
+TextTagParse	テキストに不正な書式があります。< {0}	Erro de text parser.{0}
+TextCallbackCalcExpression	文字列を数式に変換するコールバックが登録されていません 	CallbackCalcExpression não está atribuído.
+TextFailedCalcExpression	演算に失敗しました 	Falha ao calcular expressão.
+ExpressionOperateSubstition	{0} に {1} を代入できません 	Erro de exceção de operate.{1}para{0}
+ExpressionOperator	演算子:{0} を適用できません 	Erro de exceção de operator {0}.
+ResourceLoadError	リソースの読み込みに失敗しました。\n通信環境の良い場所で再度お試しください。	Erro ao carregar o recurso.\nPor favor, tente novamente em um local com uma boa condição de internet.

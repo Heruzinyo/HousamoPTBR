@@ -1,0 +1,42 @@
+Key	Japanese	English
+Yes	はい	Sim
+No	いいえ	Não
+Ok	OK	OK
+Cancel	キャンセル	Cancelar
+Back	もどる	Voltar
+Clear	クリア	Excluir
+Retry	リトライ	Tentar Novamente
+History	履歴	História
+Save	セーブ	Salvar
+Load	ロード	Carregar
+On	オン	On
+Off	オフ	Off
+Skip	スキップ	Pular
+None	なし	Nenhum
+Sound	サウンド	Som
+Review	レビュー	Análise
+Restore	リストア	Restaurar
+Download	ダウンロード	Baixar
+QuitGame	ゲームを終了しますか？	Sair do Jogo?
+DebugInfo	●デバッグ情報	Informações de Debug
+DebugLog	●デバッグログ	Registro de Debug
+DebugMenu	●デバッグメニュー	Menu de Debug
+DeleteSaveAndQuit	セーブ消去＆終了	Excluir Dados Salvos
+DeleteCacheFile	ｷｬｯｼｭﾌｧｲﾙ削除	Excluir Cache
+Language	言語	Idioma
+DeleteAllSaveDataFilesTitle	セーブデータを消去	Excluir dados salvos
+DeleteAllSaveDataFilesMessage	セーブデータを全て消去しますか？		Você tem certeza de que deseja excluir todos os dados salvos?
+DeleteAllCacheFilesTitle	キャッシュファイルを消去		Excluir arquivos de cache
+DeleteAllCacheFilesMessage	キャッシュファイルを全て消去しますか？		Você tem certeza de que deseja excluir todos os arquivos de cache?
+DeleteAllOutputFilesTitle	出力ファイルを消去		Deletar dados do jogo
+DeleteAllOutputFilesMessage	出力ファイル（セーブデータとキャッシュファイル）を全て消去しますか？		Você tem certeza de que deseja excluir todos os dados do jogo (arquivos de cache e dados salvos)?
+Downloading	ダウンロード中です...	Baixando...
+DownloadCount	{0}/{1}	{0}/{1}
+DownloadFinished	ダウンロード完了！	Download Conpleto!
+WarningNotOnline	ネットワークにつながっていません	Aviso! Não Está Online
+WarningNotWifi	サイズの大きいデータがダウンロードされます。Wifi接続ではないですがよろしいですか。	Aviso! Sem Wifi
+ChangeCurrentProject	現在のシナリオプロジェクトファイルを変更します	Mudar Dados de Cenário do Projeto Atual
+VersionUpScene	シーンをバージョンアップする必要があります。よろしいですか	A cena atual deve ser atualizada. Tudo bem？
+VersionUpScenario	シナリオを再インポートしてバージョンアップする必要があります。よろしいですか	O cenário atual deve ser atualizado. Tudo bem？
+Redownload	再ﾀﾞｳﾝﾛｰﾄﾞ	Baixar Novamente
+
