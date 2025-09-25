@@ -3,6 +3,8 @@
 
 # Esse projeto visa traduzir o jogo [Tokyo Afterschool Summoners (Housamo)](https://housamo.jp/en/) criado por [Lifewonders](https://www.lifewonders.co.jp/?lang=en) para Português Brasileiro.
 
+Esse projeto encontra-se licenciado sob a licença **[Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional. (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br)**.
+
 Você pode criar um fork, clonar o repositório ou utilizar os arquivos no qual traduzi (os arquivos PSD, por exemplo) como base para outros projetos, mas por favor não esqueça de me creditar.
 
 Esse Patch foi feito para uma versão bem antiga do jogo (2021), então alguns arquivos estão desatualizados.
